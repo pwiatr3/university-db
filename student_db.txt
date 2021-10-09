@@ -1,0 +1,10 @@
+1, Adam, Milczarek, Prosta 1 Warszawa, 1234, Male, 63042251892
+2, Jan, Smialek, Krzywa 2 Kostrzyn, 1432, Male, 53050439434
+3, Adam, Slusarczyk, Niepodleglosci 4 Kielce, 3235, Male, 86072049352
+4, Norbert, Kapinski, Jana Pawla 8 Leszno, 4237, Male, 88100126376
+5, Anna, Aleksandrowska, Dereniowa 6 Katowice, 5245, Female, 77040612348
+6, Janusz, Radek, Kwiatowa 4 Radom, 6531, Male, 97051236492
+7, Lukasz, Filipiuk, Lodygowa 1 Bydgoszcz, 7539, Male, 51062173373
+8, Krzysztof, Korzeniecki, Nowogrodzka 3 Elk, 8739, Male, 54111955757
+9, Jerzy, Przeradowski, Plazowa 6 Sopot, 9739, Male, 46010786794
+10, Anna, Maliszkiewicz, Wrzeciono 9 Rybnik, 0974, Female, 84050293344

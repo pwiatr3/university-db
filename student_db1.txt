@@ -1,0 +1,15 @@
+0, Antoni, Aiatr, Poznań, 12347, Male, 49041806075
+1, Pawel, Ciatr, Długa 4 Warszawa, 12345, Male, 85052006075
+2, Anna, Bochenska, Katowice, 12346, Female, 79081606075
+
+1, Lukasz, Filipiuk, Łodygowa 1 Bydgoszcz, 7539, Male, 98010233714
+2, Adam, Milczarek, Prosta 1 Warszawa, 1234, Male, 46052253643
+3, Jan, Śmiałek, Krzywa 2 Kostrzyń, 1432, Male, 2032962488
+4, Adam, Ślusarczyk, Niepodległości 4 Kielce, 3235, Male, 1031249667
+5, Norbert, Kapiński, Jana Pawła 8 Leszno, 4237, Male, 79051074234
+6, Anna, Aleksandrowska, Dereniowa 6 Katowice, 5245, Female, 97062537166
+7, Janusz, Radek, Kwiatowa 4 Radom, 6531, Male, 83091644917
+8, Łukasz, Filipiuk, Łodygowa 1 Bydgoszcz, 7539, Male, 98010233714
+9, Krzysztof, Korzeniecki, Nowogordzka 3 Ełk, 8739, Male, 3042974346
+10, Jerzy, Przeradowski, Plażowa 6 Sopot, 9739, Male, 3122576535
+11, Anna, Maliszkiewicz, Wrzeciono 9 Rybnik, 0974, Female, 3122576535
